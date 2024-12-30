@@ -1,6 +1,6 @@
 {
   "name": "@click-to-vue-component/vite-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "exports": {
     "import": "./dist/index.js",
     "types": "./dist/index.d.ts"

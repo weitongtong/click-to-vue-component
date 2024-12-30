@@ -1,0 +1,7 @@
+# @click-to-vue-component/client
+
+## 0.0.1
+
+### Patch Changes
+
+- client + vite-plugin 实现点击视图定位到源码
