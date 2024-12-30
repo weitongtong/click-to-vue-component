@@ -1,0 +1,27 @@
+{
+  "name": "@click-to-vue-component/vite-plugin",
+  "version": "0.0.0",
+  "exports": {
+    "import": "./dist/index.js",
+    "types": "./dist/index.d.ts"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "html-tags": "^4.0.0",
+    "parse5": "^7.2.1",
+    "rollup": "^4.29.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
